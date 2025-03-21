@@ -56,6 +56,4 @@ py manage.py migrate
 py manage.py runserver
 ```
 
-© 2021 Steve Njuguna
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
